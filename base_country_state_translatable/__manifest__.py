@@ -1,4 +1,3 @@
-# Copyright 2017 initOS GmbH
 # Copyright 2021 initOS GmbH
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
