@@ -2,3 +2,4 @@
 * Jordi Ballester Alomar <jordi.ballester@forgeflow.com>
 * Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
 * Tharathip Chaweewongphan <tharathipc@ecosoft.co.th>
+* Dhara Solanki <dhara.solanki@initos.com>

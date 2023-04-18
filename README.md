@@ -51,6 +51,7 @@ addon | version | maintainers | summary
 [partner_second_lastname](partner_second_lastname/) | 16.0.1.0.1 |  | Have split first and second lastnames
 [partner_tz](partner_tz/) | 16.0.1.0.0 |  | Remove partner timezone default value and display on form
 [partner_vat_unique](partner_vat_unique/) | 16.0.1.0.0 |  | Module to make the VAT number unique for customers and suppliers.
+[partner_phone_extension](partner_phone_extension/) | 16.0.1.0.0 |  | Partner Phone Number Extension
 
 [//]: # (end addons)
 
